@@ -8,5 +8,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+_site/
+.bundle/
 /vendor
 .idea/
